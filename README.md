@@ -1,2 +1,2 @@
 # DiscordBot
-This is my Test Bot
+Das ist ein Discord Bot
